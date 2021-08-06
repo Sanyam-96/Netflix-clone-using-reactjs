@@ -5,6 +5,10 @@
 }
 
 .banner_contents {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 5rem;
   margin-left: 30px;
   padding-top: 30px;
   height: 190px;
